@@ -1,1 +1,2 @@
-Strong, **Brave**. 
+- Strong, 
+- **Brave**. 
